@@ -1,9 +1,10 @@
 {
   "name": "bootstrap-mockups",
+  "author": "",
+  "repository": "https://github.com/WDI-SEA/bootstrap-mockups",
   "scripts": {
     "start": "browser-sync start --server . --files ."
   },
-  "author": "",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.12.5"
