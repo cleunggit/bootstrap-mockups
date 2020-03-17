@@ -7,8 +7,6 @@ Bootstrap's pre-defined classes allow developers to quickly create prototypes of
 * Fork and clone this repository
 * Run `npm install` to install dependencies
   * `npm start` - start the BrowserSync server
-  * `npm run lint:css` - lint CSS
-  * `npm run lint:js` - lint JS
 * Include the CDN links for Bootstrap where appropriate
 * Start laying out the site!
 
