@@ -25,7 +25,7 @@ See the site link above (Microsoft)
 
 ## Bonus
 
-* Now that you've used Bootstrap, add an external stylesheet and make your site look as un-Bootstrappy as possible by overriding styles. While Bootstrap is a great framework for scaffolding ideas quickly, nobody likes a plain-ol-Bootstrap site
+* Now that you've used Bootstrap, add an external stylesheet and make your site look as un-Bootstrappy as possible by overriding styles. While Bootstrap is a great framework for scaffolding ideas quickly, [nobody likes a plain-ol-Bootstrap site](https://www.dagusa.com/)
   * Take advantage of the Chrome inspector to see what selectors you need to override
 
 ## Additional Resources
